@@ -1,0 +1,8 @@
+Airline: Air Indus
+Flight Id: SL010
+Flight Number: SL011
+Destination: Lahore
+Starting From: Karachi
+Departure Time: 9:00 PM
+Arrival Time: 11:30 PM
+Aircraft Type: AirBus

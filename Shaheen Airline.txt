@@ -1,0 +1,8 @@
+Airline: Shaheen Airline
+Flight Id: SI010
+Flight Number: SI011
+Destination: Islamabad
+Starting From: Lahore
+Departure Time: 9:00 PM
+Arrival Time: 12:00 PM
+Aircraft Type: AirBus

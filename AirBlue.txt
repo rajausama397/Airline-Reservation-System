@@ -1,0 +1,8 @@
+Airline: Air Blue
+Flight Id: AI011
+Flight Number: AI211
+Destination: Islamabad
+Starting From: Karachi
+Departure Time: 12:00pm
+Arrival Time: 8:00am
+Aircraft Type: AirBus
